@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.con1{
+    margin-left: -300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.con1 .nf{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.con1 .fb{
+    padding: 10px;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.fo{
+    margin-top: 150px;
+    margin-left: -350px;
+    border: 2px ridge red;
+    padding: 10px;
+}
+
+.con2{
+    margin-left: -400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con2 .sq{
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.con2 .sb{
+    margin-right: 50px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.con2 .sf{
+    padding: 10px;
+    border-radius: 20px;
+}
+.so{
+    margin-top: 150px;
+    margin-left: -400px;
+    border: 2px ridge red;
+    padding: 10px;
+}
+
+.con3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.show{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px ridge blue;
+    padding: 10px;
+}
+.x{
+    margin-left: 650px;
+}
